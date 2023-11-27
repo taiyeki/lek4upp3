@@ -11,7 +11,7 @@ public static void main(String[] args) throws Exception {
     System.out.print(" Ange ålder");
     int ålder = tangentbord.nextInt();
     // Myhndig ålder lika med elle större än 18
-    System.out.println("Du är myndig´:"+(ålder>=18   ));
+    System.out.println("Du är myndig:"+(ålder>=18   ));
 
 
 // B)
